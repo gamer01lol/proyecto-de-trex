@@ -1,2 +1,1 @@
-# proyecto-de-trex
-el juego del trex
+# C14-Juego-completo
